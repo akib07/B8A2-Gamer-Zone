@@ -311,8 +311,8 @@ section {
 }
 
 .we-are-gamer-img {
-  width: 868px;
-  height: 489px;
+  width: 800px;
+  height: auto;
   flex-shrink: 0;
 }
 
